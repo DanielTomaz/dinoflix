@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Filmes",
+      "link": "https://www.youtube.com/watch?v=lc0UehYemQA",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Filmes com dinos maravilhosos",
+        "url": "https://www.youtube.com/watch?v=lc0UehYemQA"
       },
       "videos": [
         {
@@ -14,32 +14,32 @@
           "url": "https://www.youtube.com/watch?v=xBP2Q2uQHZc"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Jurassic Park Trailer",
+          "url": "https://www.youtube.com/watch?v=lc0UehYemQA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Jurassic World Camp Cretaceous | Official Teaser | Netflix",
+          "url": "https://www.youtube.com/watch?v=TKJwbsx1BSc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Jurassic World Official Trailer #1 (2015) - Chris Pratt, Jake Johnson Movie HD",
+          "url": "https://www.youtube.com/watch?v=ZXiahojLbOw"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Jurassic World: Reino Ameaçado - Trailer Internacional 1 (Universal Pictures) HD",
+          "url": "https://www.youtube.com/watch?v=u2WuN96DSkY"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Jurassic World 3: Dominion (2021) First Look Trailer Concept - Chris Pratt, Laura Dern Movie",
+          "url": "https://www.youtube.com/watch?v=lVYwe2htD-s"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Jurassic Park 3 Official Trailer #1 (2001) - Sam Neill Movie HD",
+          "url": "https://www.youtube.com/watch?v=gjIaV6CU0wA"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "The Lost World: Jurassic Park Official Trailer #1 - Jeff Goldblum Movie (1997) HD",
+          "url": "https://www.youtube.com/watch?v=RxrvaneULkE"
         }        
       ]
     },
@@ -74,28 +74,28 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Vídeos Engraçados",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Vídeos de dinos humanos",
+        "url": "https://www.youtube.com/watch?v=Ma8FymBRPLk"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Fui para a rua vestido de Dinossauro",
+          "url": "https://www.youtube.com/watch?v=Ma8FymBRPLk"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Fui para a rua vestido de Dinossauro",
+          "url": "https://www.youtube.com/watch?v=Ma8FymBRPLk"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Jurassic World Meets Parkour in Real Life",
+          "url": "https://www.youtube.com/watch?v=a30K69hUJyo"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Samuel Dino",
+          "url": "https://www.youtube.com/watch?v=GA6dvEW6-jc"
         }
       ]
     },
